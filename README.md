@@ -23,7 +23,7 @@ Cada problema resolvido está em um diretório próprio com:
 
 | # | Título do Problema | Dificuldade | Arquivo |
 |---|---------------------|-------------|---------|
-| 1 | Fancy String        | 🟢 Fácil     | [`fancy-string/`](fancy-string/) |
+| 1 | Fancy String        | 🟢 Fácil     | [`fancy-string/`](https://github.com/DaniloTakeo/leetcode_solutions/blob/main/solutions/src/main/java/problem_1957/Solution2.java) |
 
 ---
 
