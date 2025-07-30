@@ -26,7 +26,7 @@ Cada problema resolvido está em um diretório próprio com:
 |------|------------------------------------------|-------------|---------|
 | 1957 | Fancy String                             | 🟢 Fácil     | [`fancy-string/`](https://github.com/DaniloTakeo/leetcode_solutions/blob/main/solutions/src/main/java/problem_1957/Solution2.java) |
 | 1028 | Recover a Tree From Preorder Traversal   | 🔴 Difícil   | [`recover-tree-preorder/`](https://github.com/DaniloTakeo/leetcode_solutions/blob/main/solutions/src/main/java/problem_1028/Solution2.java) |
-| 873  | Length of Longest Fibonacci Subsequence  | 🟡 Médio     | [`longest-fibonacci-subseq/`](https://github.com/DaniloTakeo/leetcode_solutions/blob/main/solutions/src/main/java/problem_0873/Solution2.java) |
+| 873  | Length of Longest Fibonacci Subsequence  | 🟡 Médio     | [`longest-fibonacci-subseq/`](https://github.com/DaniloTakeo/leetcode_solutions/blob/main/solutions/src/main/java/problem_873/Solution2.java) |
 
 ---
 
